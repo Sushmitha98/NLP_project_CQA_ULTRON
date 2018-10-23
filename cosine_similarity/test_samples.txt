@@ -1,0 +1,23 @@
+	Question1						Question2							   Is_similar?
+
+Is the word "overrated" overrated?			What is an overrated overrating?						0
+
+What Type of sex position would you like to do?		What type of Quora swag would you be most likely to actually wear/use?		0
+
+Was Hitler catholic					Was Hitler an atheist?								0
+
+What is the best school for Jiu Jitsu in California?	Can you study Gracie jiu jitsu after 50?					1
+
+When a man becomes a President, his wife is called first lady. If a woman is President, what is her husband called?	
+Usually the wife of the President is called the First Lady, but if Hilary Clinton is elected, what will Bill be called?			0
+
+School kill creativity?					How do schools kill creativity?							1
+
+Which is the best book for core Java?			Which book to buy to learn java?						1
+
+How does a rocket work?					How do sky rockets work?							1
+
+What should be a gift to a newly married couple?	What are the best gifts for newly married couples?				0
+
+What is the integral of e^(-x) /x?			What is the integral of (e^x) ÷x?						1
+
